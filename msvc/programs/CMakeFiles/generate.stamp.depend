@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckSymbolExists.cmake
+N:/Development/Dev_Base/libdeflate-1.18/programs/CMakeLists.txt
+N:/Development/Dev_Base/libdeflate-1.18/programs/config.h.in

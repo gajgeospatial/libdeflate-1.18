@@ -1,0 +1,8 @@
+N:/Development/Dev_Base/libdeflate-1.18/msvc/CMakeFiles/libdeflate_static.dir
+N:/Development/Dev_Base/libdeflate-1.18/msvc/CMakeFiles/libdeflate_shared.dir
+N:/Development/Dev_Base/libdeflate-1.18/msvc/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/libdeflate-1.18/msvc/CMakeFiles/ALL_BUILD.dir
+N:/Development/Dev_Base/libdeflate-1.18/msvc/CMakeFiles/ZERO_CHECK.dir
+N:/Development/Dev_Base/libdeflate-1.18/msvc/programs/CMakeFiles/libdeflate-gzip.dir
+N:/Development/Dev_Base/libdeflate-1.18/msvc/programs/CMakeFiles/libdeflate_prog_utils.dir
+N:/Development/Dev_Base/libdeflate-1.18/msvc/programs/CMakeFiles/INSTALL.dir
